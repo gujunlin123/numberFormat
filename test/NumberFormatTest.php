@@ -6,7 +6,7 @@
 
 namespace test;
 require "vendor/autoload.php";
-use Youpinjie\NumberFormat;
+use youpinjie\NumberFormat;
 
 $number = '102400010';
 echo NumberFormat::byte_format($number);

@@ -4,7 +4,7 @@
  * @author XinLiang
  */
 
-namespace Youpinjie;
+namespace youpinjie;
 
 class NumberFormat
 {

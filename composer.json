@@ -1,5 +1,5 @@
 {
-    "name": "Youpinjie/number-format",
+    "name": "youpinjie/number-format",
     "authors": [
         {
             "name": "gujunlin",
@@ -14,7 +14,7 @@
     },
     "autoload": {
       "psr-4": {
-          "Youpinjie\\": "src/"
+          "youpinjie\\": "src/"
         }
     },
     "repositories": {
